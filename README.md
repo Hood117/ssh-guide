@@ -27,5 +27,5 @@ This repo covers everything about SSH for Linux sysadmins and learners: setup, h
 ---
 
 ##  Author
-By Hood1117
+By Hood117
 
