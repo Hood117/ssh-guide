@@ -1,6 +1,6 @@
 # SSH Toolkit
 
-This repo covers everything about SSH for Linux sysadmins and learners: setup, hardening, passwordless login, and more..
+This repo covers everything about SSH for Linux sysadmins and learners: setup, hardening, passwordless login, and more.
 
 ---
 
