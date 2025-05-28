@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "=== SSH Service & Firewall Status ==="
+echo "== SSH Service & Firewall Status =="
 
 # Check sshd service
 echo -n "SSH service: "
