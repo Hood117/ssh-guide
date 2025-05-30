@@ -6,7 +6,7 @@ This repo covers everything about SSH for Linux sysadmins and learners: setup, h
 
 ##  Scripts
 
-- `ssh_configure.sh` — Installs and configure OpenSSH
+- `ssh_configure.sh` — Install and configure OpenSSH
 - `ssh_keygen.sh` — Creates RSA key pair for passwordless SSH
 - `ssh_copykey.sh` — Copies SSH key to remote host
 - `ssh_hostname_login.sh` — Lets you SSH using a name instead of an IP
